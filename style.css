@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  
+}
+
+.calculator{
+    background-color: #CC8899;
+    border-radius: 10px;
+}
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  cursor: pointer;
+  background-color: #AA1945;
+  color: beige;
+
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    background-color: #AA1945;
+    color: beige;
+}
